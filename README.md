@@ -7,4 +7,5 @@ her分支修改
 his分支覆盖了本地的代码，但是master很久没更新了，master落后很多
 his又写了一句
 master pull 是强制覆盖吗？
-
+只add b不commit
+buadd了
